@@ -1,2 +1,2 @@
-# processo_seletivo_desktop
-Código base para processo seletivo - equipe Desktop
+# Processo seletivo desktop
+Esse código tem por objetivo servir de base para as proximas etapas do processo seletivo da Scenario Automation, onde serão solicitadas novas funcionalidades ou alterações no mesmo. Ele representa de maneira simplista um projeto de automação. O projeto pode ser abstraido como uma casa, que possui varios ambientes(comodos da casa). Esses comodos contém alguns itens, no caso do nosso exemplo Luminarias, módulos e teclados. Os modulos, são modulos de potencia que controlam diversos equipamentos(cargas), no código utilizamos luminaria, o controle pode ser mais amplo atingindo também motores de piscina, ventiladores entre outros itens. Essas cargas são acionadas por outros equipamento, os teclados. Cada teclado aciona diversas cargas, não necessariamente apenas cargas que estejam no mesmo ambiente.
